@@ -1,2 +1,3 @@
 node_modules/
-mochawsome-report/
+mochawesome-report/
+package-lock.json
