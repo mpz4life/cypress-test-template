@@ -1,0 +1,18 @@
+{
+    "baseUrl": "http://i.zte.com.cn",
+    "reporter": "mochawesome",
+    "reporterOptions": {
+      "overwrite": true,
+      "inline": true,
+      "html": false,
+      "json": true
+    },
+    "video": false,
+
+    "fileServerFolder": "e2e",
+    "fixturesFolder": "e2e/fixtures",
+    "integrationFolder": "e2e/specs",
+    "pluginsFile": "e2e/plugins/index.js",
+    "screenshotFolder": "e2e/screenshots",
+    "supportFile": "e2e/support/index.js"
+}
