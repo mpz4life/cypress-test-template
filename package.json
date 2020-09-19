@@ -1,13 +1,13 @@
 {
-  "name": "cypress_test",
+  "name": "cypress-test-template",
   "version": "1.0.0",
-  "description": "an example of cypress_test",
+  "description": "a cli of cypress",
   "main": "index.js",
   "scripts": {
     "cypress:open": "cypress open",
     "cypress:run": "node cypress.js"
   },
-  "author": "wu.duozhen",
+  "author": "mpz4life",
   "license": "MIT",
   "devDependencies": {
     "cypress": "^5.2.0",
