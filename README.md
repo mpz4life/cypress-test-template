@@ -1,5 +1,5 @@
 # cypress-test-template
-为了让cypress的工程的结构更加标准化，我们为此创建了模板工程，义工更多开发者快速复用。
+为了让cypress的工程的结构更加标准化，我们为此创建了模板工程，以供更多开发者快速复用。
 
 ## cypress.json
 所有个性化的配置都包含在cypress.json内，相关关键字解释：
